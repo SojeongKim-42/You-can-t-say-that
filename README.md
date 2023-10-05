@@ -1,3 +1,15 @@
+# on-game
+![image](https://user-images.githubusercontent.com/78066907/210474057-26efcae3-bfd9-48d8-b41f-a1417e74c502.png)
+https://youtu.be/oAY5j6EmNZk
+> game rule
+  1. Maximum player in this game is 3.
+  2. After turning on your video, you can create a room or join a room by ID.
+  3. Only user1 can start the game by play button, User2 and 3 must click the play button after User1.
+  4. In the game, everyone is given a random forbidden word.
+  5. Takes turns to talk about the selected topic (GIST), you have to click mic button in your turn.
+  6. When you say your forbidden word, you fail, and your video & audio is turned off!
+ 
+
 # Setting the Environment 
 Firebase + WebRTC Codelab : See http://webrtc.org for details.
 
@@ -22,16 +34,7 @@ Open your app at http://localhost:5000.
 js update : 
 https://stackoverflow.com/questions/3951187/javascript-file-not-updating-no-matter-what-i-do
 
-# on-game
-![image](https://user-images.githubusercontent.com/78066907/210474057-26efcae3-bfd9-48d8-b41f-a1417e74c502.png)
-> game rule
-  1. Maximum player in this game is 3.
-  2. After turning on your video, you can create a room or join a room by ID.
-  3. Only user1 can start the game by play button, User2 and 3 must click the play button after User1.
-  4. In the game, everyone is given a random forbidden word.
-  5. Takes turns to talk about the selected topic (GIST), you have to click mic button in your turn.
-  6. When you say your forbidden word, you fail, and your video & audio is turned off!
- 
+
 
 > Operation principle
   
